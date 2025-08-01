@@ -50,10 +50,3 @@ Determine which day of the week brings the highest sales by analyzing sales patt
 - Include a video (up to 5 minutes), explaining the project, your analytical approach, and key outcomes.
 - Submit your PPT and SQL script as a zipped folder as per the submission guidelines.
 
-## Submission Guidelines
-- Submit both the presentation and SQL script zipped in a folder.
-- Ensure originality to avoid plagiarism.
-- The project will be evaluated based on analysis quality, insights, and recommendation feasibility.
-- Clearly define and explain any self-set criteria for analysis.
-- The project video should be less than 5 minutes with the presenter’s face visible.
-
